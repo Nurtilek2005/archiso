@@ -157,6 +157,7 @@ kio-zeroconf
 konqueror
 kscreen
 ksshaskpass
+kvantum
 kwallet-pam
 kwalletmanager
 kwayland-integration
@@ -188,6 +189,7 @@ plasma-wayland-protocols
 plasma-workspace-wallpapers
 powerdevil
 print-manager
+qt6ct
 samba
 sddm-kcm
 spectacle
