@@ -1,4 +1,4 @@
-QT_STYLE_OVERRIDE=kvantum
+#QT_STYLE_OVERRIDE=kvantum -- will be added soon
 EDITOR=nvim
 BROWSER=brave
 
